@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/logo.icns</file>
+        <file>icons/bg.png</file>
+        <file>animations/error.gif</file>
+        <file>animations/success.gif</file>
+        <file>colors.qss</file>
+        <file>fronts/IBMPlexMono.ttf</file>
+        <file>sounds/success.wav</file>
+        <file>sounds/error.wav</file>
+        <file>sounds/file_drop.wav</file>
+    </qresource>
+</RCC>
